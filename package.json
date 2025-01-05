@@ -24,7 +24,7 @@
     "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
-    "mongoose": "^5.9.25",
+    "mongoose": "^6.13.5",
     "node-sass-middleware": "^0.11.0"
   },
   "devDependencies": {
